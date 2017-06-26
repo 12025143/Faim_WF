@@ -1,0 +1,8 @@
+G:\1FACC\facc-elctric\FAIM3\Entitys\release\F_Pub.dll
+G:\1FACC\facc-elctric\FAIM3\Entitys\release\F_Pub.pdb
+G:\1FACC\facc-elctric\FAIM3\Entitys\F_Pub\obj\Debug\F_Pub.dll
+G:\1FACC\facc-elctric\FAIM3\Entitys\F_Pub\obj\Debug\F_Pub.pdb
+F:\Facc-elctricA\HY\Faim_WF\release\F_Pub.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_Pub.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_Pub\obj\Debug\F_Pub.dll
+F:\Facc-elctricA\HY\Faim_WF\F_Pub\obj\Debug\F_Pub.pdb

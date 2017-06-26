@@ -1,0 +1,10 @@
+E:\facc-elctric\HY\A\Faim_WF\release\F_TransCalc.dll
+E:\facc-elctric\HY\A\Faim_WF\release\F_TransCalc.pdb
+E:\facc-elctric\HY\A\Faim_WF\F_TransCalc\obj\Debug\ResolveAssemblyReference.cache
+E:\facc-elctric\HY\A\Faim_WF\F_TransCalc\obj\Debug\F_TransCalc.dll
+E:\facc-elctric\HY\A\Faim_WF\F_TransCalc\obj\Debug\F_TransCalc.pdb
+F:\Facc-elctricA\HY\Faim_WF\release\F_TransCalc.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_TransCalc.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_TransCalc\obj\Debug\F_TransCalc.dll
+F:\Facc-elctricA\HY\Faim_WF\F_TransCalc\obj\Debug\F_TransCalc.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_TransCalc\obj\Debug\F_TransCalc.csprojResolveAssemblyReference.cache

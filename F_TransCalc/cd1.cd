@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FACC.clsToolApp">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABBAACAAAAAAAAAAGEABAAAgECAAAAAAkAAAAAAAAA=</HashCode>
+      <FileName>clsToolApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FACC.F_MyDLL">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAAAAAAEAIAAQAACgAAAAAABAAAAAYEAABA=</HashCode>
+      <FileName>F_MyDLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FACC.F_TransCalc">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAIAQAAAAAACEAAQAAQAAAACAwAAgAAAw=</HashCode>
+      <FileName>F_TransCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FACC.F_Convert">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgACBAAAIAAAAIAAAAAAAAAAAAAAAKAACABAA=</HashCode>
+      <FileName>F_Convert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FACC.eWinSizeState">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>eWinSizeState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
