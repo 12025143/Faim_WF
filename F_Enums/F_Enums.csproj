@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45871704-A6CD-4EB5-A920-EB261F493356}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>F_Enums</RootNamespace>
+    <AssemblyName>F_Enums</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enums\eHL.cs" />
+    <Compile Include="Flow\eCaseFlag.cs" />
+    <Compile Include="Driver\eDeviceName.cs" />
+    <Compile Include="Driver\eEpsonStatus.cs" />
+    <Compile Include="Enums\eActionPoint.cs" />
+    <Compile Include="Enums\eActionType.cs" />
+    <Compile Include="Enums\eAxleJ.cs" />
+    <Compile Include="Enums\eBaudRate.cs" />
+    <Compile Include="Enums\eBoardType.cs" />
+    <Compile Include="Enums\eCommand.cs" />
+    <Compile Include="Enums\eData.cs" />
+    <Compile Include="Enums\eImportPoint.cs" />
+    <Compile Include="Enums\eMsgType.cs" />
+    <Compile Include="Enums\eNormalState.cs" />
+    <Compile Include="Enums\eObjectType.cs" />
+    <Compile Include="Enums\eOption.cs" />
+    <Compile Include="Gantry\eGantryInfo.cs" />
+    <Compile Include="Plugin\ePlugiName.cs" />
+    <Compile Include="Enums\eRateLevel.cs" />
+    <Compile Include="Enums\eRobot.cs" />
+    <Compile Include="Enums\eScoopType.cs" />
+    <Compile Include="Enums\eSwitch.cs" />
+    <Compile Include="Enums\eTCP.cs" />
+    <Compile Include="Flow\eThreadState.cs" />
+    <Compile Include="eProdResult.cs" />
+    <Compile Include="Flow\eRunState.cs" />
+    <Compile Include="Protocol\eDev485.cs" />
+    <Compile Include="Protocol\eDev485obj.cs" />
+    <Compile Include="Protocol\eDevTCP.cs" />
+    <Compile Include="Protocol\eMode_AZ.cs" />
+    <Compile Include="Protocol\eMode_J.cs" />
+    <Compile Include="Signal\eSignal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="eStepDist.cs" />
+    <Compile Include="eState.cs" />
+    <Compile Include="eTimeType.cs" />
+    <Compile Include="eSaveType.cs" />
+    <Compile Include="eWF_State.cs" />
+    <Compile Include="Protocol\eDevROB.cs" />
+    <Compile Include="Signal\eDevIO.cs" />
+    <Compile Include="Signal\eSigalColor.cs" />
+    <Compile Include="Signal\eSigalEvent.cs" />
+    <Compile Include="Signal\eMessageStyle.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cd1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Driver\eDataType.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

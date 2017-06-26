@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Enum Name="F_Enums.eTimeType">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>eTimeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eProdResult">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAI=</HashCode>
+      <FileName>eProdResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eSaveType">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>eSaveType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eSignal">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAABAAAAI=</HashCode>
+      <FileName>Signal\eSignal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eState">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAEAAAAQAAAAAAAIAACAAEAAAAAAIAI=</HashCode>
+      <FileName>eState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eStepDist">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>eStepDist.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eWF_State">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAAQAABAAAAECEAAAAAAQAAGAIIgAQCQABAAI=</HashCode>
+      <FileName>eWF_State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eCommand">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKABFgAAAAAAgAAAAAAAAABAgywAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\eCommand.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eImportPoint">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAEAI=</HashCode>
+      <FileName>Enums\eImportPoint.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.ePointType">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAYAAAAAAAAAAAAAACAIAAAAAACAAAAAAAI=</HashCode>
+      <FileName>Enums\eImportPoint.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eThreadState">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAIAAAABAAAAEAAAAAAAAEAIAAAgAAAAAgI=</HashCode>
+      <FileName>Flow\eThreadState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eRateLevel">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAABAgAAAAAAAAgAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\eRateLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eActionPoint">
+    <Position X="11.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\eActionPoint.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eActionType">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgIAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\eActionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eAxleJ">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAEABAAAI=</HashCode>
+      <FileName>Enums\eAxleJ.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eBaudRate">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAAAAABAAAAAEAACCAAAAAAAAAAAAAQI=</HashCode>
+      <FileName>Enums\eBaudRate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eBoardType">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAKAAAI=</HashCode>
+      <FileName>Enums\eBoardType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eOption">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAI=</HashCode>
+      <FileName>Enums\eOption.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eRobot">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>Enums\eRobot.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eTCP">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\eTCP.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDev485">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAoAAAABAAIAIAAAAAAAACAAAAACUI=</HashCode>
+      <FileName>Protocol\eDev485.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDev485obj">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAIAAAAAAAAAgAAIAAAAAAAAAAAo=</HashCode>
+      <FileName>Protocol\eDev485obj.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDataType">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAIAAAABAI=</HashCode>
+      <FileName>Driver\eDataType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eData">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAACQAAAI=</HashCode>
+      <FileName>Enums\eData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eMsgType">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAQDAABAAAAAAAAgIAAAAAAQAAAAAAASCAQI=</HashCode>
+      <FileName>Enums\eMsgType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.ePickType">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAI=</HashCode>
+      <FileName>Enums\eObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eEpsonStatus">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAQkAgAAAABAAAAAAAAAMAAACACAAAAI=</HashCode>
+      <FileName>Driver\eEpsonStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eSigalColor">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAgAAAAAAAAAABAAAAAAAAAAAADAAAAI=</HashCode>
+      <FileName>Signal\eSigalColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eSignalEvent">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAYgAIABAQQAZYAAAEKMAKAgAAQIAEIIIgBQCwGBAqI=</HashCode>
+      <FileName>Signal\eSigalEvent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eRunState">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAIM=</HashCode>
+      <FileName>Flow\eRunState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDevTCP">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQggKAEAAAAAgAAAAABAAACAAAAAAAAANEBBAAAAAo=</HashCode>
+      <FileName>Protocol\eDevTCP.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDevRobot">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAgCEIAACAAJCSCAAQAAAYEgAQAAAAAIAhQAAAIQEM=</HashCode>
+      <FileName>Protocol\eDevROB.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDevIO">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADj8AwAAAAAAwPwDAAAA/wwAAAAAAAD/cAI=</HashCode>
+      <FileName>Signal\eDevIO.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eMode_AZ">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAoAEAAAI=</HashCode>
+      <FileName>Protocol\eMode_AZ.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eMode_J">
+    <Position X="16.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABFAAAAAAAgAAAAAAAAAAAgygAAAAAIAAAAAAAAAI=</HashCode>
+      <FileName>Protocol\eMode_J.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eDeviceName">
+    <Position X="14.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAEQAAAAAAIAAAIAAQAAAAAAAAADgAI=</HashCode>
+      <FileName>Driver\eDeviceName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eSwitch">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAIAAAAAQYAAAAAAAAIAAACAAAAAAAAAAAgCAAKI=</HashCode>
+      <FileName>Enums\eSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="F_Enums.eHL">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEEQEAII=</HashCode>
+      <FileName>Enums\eHL.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
