@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E2CD719-D302-4F38-856A-BB2A01C51F86}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>nsFACC</RootNamespace>
+    <AssemblyName>F06_ToolsIO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tcp24.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Beetle, Version=2.7.8.220, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\Beetle.dll</HintPath>
+    </Reference>
+    <Reference Include="BeetleEx, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\BeetleEx.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\release\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsBLL_UI.cs" />
+    <Compile Include="clsRemoteSkt.cs" />
+    <Compile Include="frm42_Com.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm42_Com.Designer.cs">
+      <DependentUpon>frm42_Com.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm43_Tcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm43_Tcp.Designer.cs">
+      <DependentUpon>frm43_Tcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm45_Tcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm45_Tcp.Designer.cs">
+      <DependentUpon>frm45_Tcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_Const\F_Const.cs" />
+    <Compile Include="F_Const\F_Parse.cs" />
+    <Compile Include="F_Const\F_Win.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm42_Com.resx">
+      <DependentUpon>frm42_Com.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm43_Tcp.resx">
+      <DependentUpon>frm43_Tcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm45_Tcp.resx">
+      <DependentUpon>frm45_Tcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="cd1.cd" />
+    <None Include="license.sn" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\516.png" />
+    <Content Include="images\CNFNOT.ICO" />
+    <Content Include="images\COMPREG.ICO" />
+    <Content Include="images\DataSource.ico" />
+    <Content Include="images\disconnect.png" />
+    <Content Include="images\icon[1].png" />
+    <Content Include="images\LedGreen.ico" />
+    <Content Include="images\LedRed.ico" />
+    <Content Include="images\logoicon.ico" />
+    <Content Include="images\Mm6InternetExplorer.ico" />
+    <Content Include="images\ok.png" />
+    <Content Include="images\tel.ico" />
+    <Content Include="images\wangcong-icon.png" />
+    <Content Include="Port24.ico" />
+    <None Include="Resources\Actions_mail_outbox_32px_1187079_easyicon.net.png" />
+    <None Include="Resources\Status_dialog_information_32px_1187199_easyicon.net.png" />
+    <None Include="Resources\Port_24px_530255_easyicon.net.png" />
+    <None Include="Resources\close_32px_1163336_easyicon.net.png" />
+    <None Include="Resources\close_32px_1205793_easyicon.net.png" />
+    <None Include="Resources\checked_32px_1205792_easyicon.net.png" />
+    <None Include="Resources\application_exit_32px_539518_easyicon.net.png" />
+    <None Include="Resources\application_exit_32px_539518_easyicon.net1.png" />
+    <None Include="Resources\application_exit_32px_539518_easyicon.net2.png" />
+    <None Include="Resources\wifi_50.154525386313px_1200706_easyicon.net.png" />
+    <None Include="Resources\batch_process_32px_33245_easyicon.net.png" />
+    <None Include="Resources\Network_Drive_Offline_32px_1095947_easyicon.net.png" />
+    <None Include="Resources\system_run_5_32px_540096_easyicon.net.png" />
+    <Content Include="tcp24.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

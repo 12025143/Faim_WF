@@ -1,0 +1,6 @@
+SCC = This is a Source Code Control file.
+
+[F08_TcpSrvs.csproj]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/FAIM3/Selenium
+

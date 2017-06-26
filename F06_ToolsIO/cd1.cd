@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FACC.frm43_Tcp">
+    <Position X="3.25" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>KcDAAAMBGGEAoBACABGALmSSYCB6ABCsQPAAggIiBFQ=</HashCode>
+      <FileName>frm43_Tcp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FACC.frm45_Tcp">
+    <Position X="7.25" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAIBACCAAAAAAECAAMACAAAIQJAAAMAQARFAAAA=</HashCode>
+      <FileName>frm45_Tcp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
