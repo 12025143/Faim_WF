@@ -1,0 +1,15 @@
+E:\yw\Faim_WF\release\F_CaseBase.dll
+E:\yw\Faim_WF\release\F_CaseBase.pdb
+E:\yw\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.csprojResolveAssemblyReference.cache
+E:\yw\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.dll
+E:\yw\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.pdb
+E:\facc-elctric\HY\A\Faim_WF\release\F_CaseBase.dll
+E:\facc-elctric\HY\A\Faim_WF\release\F_CaseBase.pdb
+E:\facc-elctric\HY\A\Faim_WF\F_BaseBas\obj\Debug\ResolveAssemblyReference.cache
+E:\facc-elctric\HY\A\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.dll
+E:\facc-elctric\HY\A\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.csprojResolveAssemblyReference.cache
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseBase.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseBase.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.dll
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_CaseBase.pdb

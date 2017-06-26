@@ -1,0 +1,8 @@
+G:\1FACC\facc-elctric\WsInterface\Release\Ws_TCP.dll
+G:\1FACC\facc-elctric\WsInterface\Release\Ws_TCP.pdb
+G:\1FACC\facc-elctric\WsInterface\Ws_TCP\obj\Debug\Ws_TCP.csprojResolveAssemblyReference.cache
+G:\1FACC\facc-elctric\WsInterface\Ws_TCP\obj\Debug\Ws_TCP.dll
+G:\1FACC\facc-elctric\WsInterface\Ws_TCP\obj\Debug\Ws_TCP.pdb
+G:\1FACC\facc-elctric\WsInterface\BeetleEx\obj\Debug\Ws_TCP.csprojResolveAssemblyReference.cache
+G:\1FACC\facc-elctric\WsInterface\BeetleEx\obj\Debug\Ws_TCP.dll
+G:\1FACC\facc-elctric\WsInterface\BeetleEx\obj\Debug\Ws_TCP.pdb

@@ -1,0 +1,5 @@
+F:\Facc-elctricA\HY\Faim_WF\release\F_BaseBas.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_BaseBas.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_BaseBas.csprojResolveAssemblyReference.cache
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_BaseBas.dll
+F:\Facc-elctricA\HY\Faim_WF\F_BaseBas\obj\Debug\F_BaseBas.pdb

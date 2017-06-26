@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[Ws_TCP.csproj]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/WsInterface/MesWsApi
+
+[BeetleEx.csproj]
+SCC_Aux_Path = 192.168.40.15:8877:VSS_139
+SCC_Project_Name = $/Facc-elctricA/HY/Faim_WF
+

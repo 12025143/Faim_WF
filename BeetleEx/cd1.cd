@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeetleEx.clsDAL_SRV">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="BeetleEx.clsDAL_SRV.delConnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SRV\clsDAL_SRV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="BeetleEx.clsDAL_SRV.delDataReceived" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SRV\clsDAL_SRV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACQAAAAEEAAAAQAAAAUABIAAABAAAAAIAA=</HashCode>
+      <FileName>SRV\clsDAL_SRV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeetleEx.clsDAL_Pub">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PUB\clsDAL_Pub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeetleEx.clsBLL_SRV">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Delegate Name="BeetleEx.clsBLL_SRV.delConnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SRV\clsBLL_SRV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="BeetleEx.clsBLL_SRV.delDataReceived" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SRV\clsBLL_SRV.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAABAAEAAAEAAAAAAAAAUABAEIABAAAAAIAA=</HashCode>
+      <FileName>SRV\clsBLL_SRV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeetleEx.clsBLL_TCP2">
+    <Position X="5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="BeetleEx.clsBLL_TCP2.delConnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CLI\clsBLL_TCP2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="BeetleEx.clsBLL_TCP2.delDataReceived" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CLI\clsBLL_TCP2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAQEABAAAEAAAAAAgQABIAAEBAAAAQIAA=</HashCode>
+      <FileName>CLI\clsBLL_TCP2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeetleEx.clsDAL_TCP">
+    <Position X="7.25" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Delegate Name="BeetleEx.clsDAL_TCP.delConnected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CLI\clsDAL_TCP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="BeetleEx.clsDAL_TCP.delDataReceived" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CLI\clsDAL_TCP.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgAAAQAABEEAAAAAAKAgQABIAAABAAIAAIAA=</HashCode>
+      <FileName>CLI\clsDAL_TCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeetleEx.clsIOCount">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAhAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>clsIOCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="9.75" />
+</ClassDiagram>

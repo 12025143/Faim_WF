@@ -1,0 +1,8 @@
+G:\1FACC\facc-elctric\WsInterface\Release\BeetleEx.dll
+G:\1FACC\facc-elctric\WsInterface\Release\BeetleEx.pdb
+G:\1FACC\facc-elctric\WsInterface\BeetleEx\obj\Debug\BeetleEx.dll
+G:\1FACC\facc-elctric\WsInterface\BeetleEx\obj\Debug\BeetleEx.pdb
+F:\Facc-elctricA\HY\Faim_WF\Release\BeetleEx.dll
+F:\Facc-elctricA\HY\Faim_WF\Release\BeetleEx.pdb
+F:\Facc-elctricA\HY\Faim_WF\BeetleEx\obj\Debug\BeetleEx.dll
+F:\Facc-elctricA\HY\Faim_WF\BeetleEx\obj\Debug\BeetleEx.pdb
