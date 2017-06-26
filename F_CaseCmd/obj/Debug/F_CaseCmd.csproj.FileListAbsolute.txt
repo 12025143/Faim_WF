@@ -1,0 +1,17 @@
+F:\Facc-elctricA\HY\Faim_WF\F_Pub_CaseSub\obj\Debug\F_CaseCmd.dll
+F:\Facc-elctricA\HY\Faim_WF\F_Pub_CaseSub\obj\Debug\F_CaseCmd.pdb
+E:\yw\Faim_WF\release\F_CaseCmd.dll
+E:\yw\Faim_WF\release\F_CaseCmd.pdb
+E:\yw\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.csprojResolveAssemblyReference.cache
+E:\yw\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.dll
+E:\yw\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.pdb
+E:\facc-elctric\HY\A\Faim_WF\release\F_CaseCmd.dll
+E:\facc-elctric\HY\A\Faim_WF\release\F_CaseCmd.pdb
+E:\facc-elctric\HY\A\Faim_WF\F_CaseCmd\obj\Debug\ResolveAssemblyReference.cache
+E:\facc-elctric\HY\A\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.dll
+E:\facc-elctric\HY\A\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.csprojResolveAssemblyReference.cache
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseCmd.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseCmd.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.dll
+F:\Facc-elctricA\HY\Faim_WF\F_CaseCmd\obj\Debug\F_CaseCmd.pdb

@@ -1,0 +1,5 @@
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseSub.dll
+F:\Facc-elctricA\HY\Faim_WF\release\F_CaseSub.pdb
+F:\Facc-elctricA\HY\Faim_WF\F_Pub_CaseSub\obj\Debug\F_CaseSub.csprojResolveAssemblyReference.cache
+F:\Facc-elctricA\HY\Faim_WF\F_Pub_CaseSub\obj\Debug\F_CaseSub.dll
+F:\Facc-elctricA\HY\Faim_WF\F_Pub_CaseSub\obj\Debug\F_CaseSub.pdb

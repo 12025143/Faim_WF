@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="F_CaseWhile.clsTool_ASM">
+    <Position X="9.75" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAFAIAAAAAAAAAAASAAAAAA=</HashCode>
+      <FileName>Tools\clsTool_ASM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="F_CaseWhile.clsWhile485">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAAABCAABAAAAAAAAgAAAMAAAAhCAIAA=</HashCode>
+      <FileName>Device\clsWhile485.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="F_CaseWhile.clsWhile74x">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABCAAAAAAAAAAAgAAAAAAAAgAAIAA=</HashCode>
+      <FileName>Device\clsWhile74x.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="F_CaseWhile.clsWhileTcp">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAABCAABAAAAAAAAgAAAEAAAAgCAIAA=</HashCode>
+      <FileName>Device\clsWhileTcp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="F_CaseWhile.clsBaseWhile">
+    <Position X="6.25" Y="5.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAAAIAAAECgEBBgAAgAAAAAAAAAAAAqAAAAA=</HashCode>
+      <FileName>Case\clsBaseWhile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="F_CaseWhile.clsFlowWhile">
+    <Position X="9" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAAAAAABAIACAAQAAAAAAAAAAAAAAAAAAAQAAE=</HashCode>
+      <FileName>Case\clsFlowWhile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="9.75" />
+</ClassDiagram>

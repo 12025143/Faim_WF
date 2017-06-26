@@ -1,0 +1,18 @@
+SCC = This is a Source Code Control file.
+
+[F_FAIM_ThMana.csproj]
+SCC_Aux_Path = 192.168.40.15:8877:VSS_139
+SCC_Project_Name = $/Facc-elctricA/HY/Faim_WF
+
+[F_ThManager.csproj]
+SCC_Aux_Path = 192.168.40.15:8877:VSS_139
+SCC_Project_Name = $/Facc-elctricA/HY/Faim_WF
+
+[F_Manager.csproj]
+SCC_Aux_Path = 192.168.40.15:8877:VSS_139
+SCC_Project_Name = $/Facc-elctricA/HY/Faim_WF
+
+[F_CaseThread.csproj]
+SCC_Aux_Path = 192.168.40.15:8877:VSS_139
+SCC_Project_Name = $/Facc-elctricA/HY/Faim_WF
+
